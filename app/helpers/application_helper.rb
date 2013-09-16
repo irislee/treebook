@@ -7,5 +7,6 @@ module ApplicationHelper
 			"alert-success"
 		else
 			""
+		end
 	end
 end
